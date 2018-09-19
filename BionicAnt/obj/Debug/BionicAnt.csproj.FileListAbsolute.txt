@@ -1,0 +1,7 @@
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt\bin\Debug\BionicAnt.exe.config
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt\bin\Debug\BionicAnt.exe
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt\bin\Debug\BionicAnt.pdb
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt\obj\Debug\BionicAnt.csprojResolveAssemblyReference.cache
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt\obj\Debug\BionicAnt.csproj.CoreCompileInputs.cache
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt\obj\Debug\BionicAnt.exe
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt\obj\Debug\BionicAnt.pdb

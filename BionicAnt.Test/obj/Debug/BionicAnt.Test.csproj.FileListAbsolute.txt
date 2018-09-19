@@ -1,0 +1,16 @@
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\obj\Debug\BionicAnt.Test.csprojResolveAssemblyReference.cache
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\obj\Debug\BionicAnt.Test.csproj.CoreCompileInputs.cache
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\bin\Debug\BionicAnt.Test.dll
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\bin\Debug\BionicAnt.Test.pdb
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\bin\Debug\BionicAnt.exe
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\bin\Debug\BionicAnt.pdb
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\bin\Debug\BionicAnt.exe.config
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\obj\Debug\BionicAnt.Test.dll
+C:\Users\Pilu\Desktop\BionicAnt\BionicAnt\BionicAnt.Test\obj\Debug\BionicAnt.Test.pdb
